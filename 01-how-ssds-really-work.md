@@ -81,7 +81,6 @@ For instance, storing temporary logs in small chunks may seem harmless—until y
 
 This was just the beginning. In upcoming posts, I'll go into:
 
-- The different types of NAND (SLC, MLC, TLC, QLC)
 - What makes enterprise SSDs different from consumer-grade ones
 - How file systems like ext4 or APFS are optimized for flash
 - And how distributed systems like Cassandra or RocksDB are flash-aware by design
