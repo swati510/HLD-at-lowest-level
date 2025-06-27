@@ -63,10 +63,8 @@ By understanding what's happening "under the hood," you can:
 ## Articles in This Series
 
 1. [How SSDs Really Work](./01-how-ssds-really-work.md) - Understanding NAND flash, quantum tunneling, and why deletion is expensive
-2. *Coming Soon*: Types of NAND Memory (SLC, MLC, TLC, QLC)
-3. *Coming Soon*: Enterprise vs Consumer SSDs
-4. *Coming Soon*: File System Optimizations for Flash Storage
-5. *Coming Soon*: How Databases Are Flash-Aware
+2. *Coming Soon*: Enterprise vs Consumer SSDs
+3. *Coming Soon*: How Databases Are Flash-Aware
 
 ## Get Started
 
